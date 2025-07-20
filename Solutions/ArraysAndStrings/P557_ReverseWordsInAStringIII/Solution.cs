@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P557_ReverseWordsInAStringIII
+﻿namespace DSA.Solutions.ArraysAndStrings.P557_ReverseWordsInAStringIII
 {
     public class Solution
     {

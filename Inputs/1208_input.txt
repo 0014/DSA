@@ -7,3 +7,12 @@
 "abcd"
 "acde"
 0
+"abcd"
+"cdef"
+1
+"krrgw"
+"zjxss"
+19
+"anryddgaqpjdw"
+"zjhotgdlmadcf"
+5

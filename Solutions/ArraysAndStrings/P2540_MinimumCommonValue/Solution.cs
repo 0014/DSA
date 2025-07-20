@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P2540_MinimumCommonValue
+﻿namespace DSA.Solutions.ArraysAndStrings.P2540_MinimumCommonValue
 {
     public class Solution
     {

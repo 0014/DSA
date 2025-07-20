@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P209_MinimumSizeSubarraySum
+﻿namespace DSA.Solutions.ArraysAndStrings.P209_MinimumSizeSubarraySum
 {
     public class Solution
     {

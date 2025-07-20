@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P917_ReverseOnlyLetters
+﻿namespace DSA.Solutions.ArraysAndStrings.P917_ReverseOnlyLetters
 {
     public class Solution
     {
@@ -26,7 +26,7 @@
                 r--;
             }
 
-            return new String(arr);
+            return new string(arr);
         }
 
         private bool IsEnglishLetter(char c)

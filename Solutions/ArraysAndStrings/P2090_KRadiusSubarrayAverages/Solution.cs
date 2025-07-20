@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P2090_KRadiusSubarrayAverages
+﻿namespace DSA.Solutions.ArraysAndStrings.P2090_KRadiusSubarrayAverages
 {
     public class Solution
     {

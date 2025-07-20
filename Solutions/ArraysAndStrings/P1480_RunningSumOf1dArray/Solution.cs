@@ -1,5 +1,4 @@
-﻿
-namespace DSA.Solutions.P1480_RunningSumOf1dArray
+﻿namespace DSA.Solutions.ArraysAndStrings.P1480_RunningSumOf1dArray
 {
     public class Solution
     {

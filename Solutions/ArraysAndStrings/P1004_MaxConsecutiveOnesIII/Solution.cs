@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P1004_MaxConsecutiveOnesIII
+﻿namespace DSA.Solutions.ArraysAndStrings.P1004_MaxConsecutiveOnesIII
 {
     public class Solution
     {

@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P1208_GetEqualSubstringsWithinBudget
+﻿namespace DSA.Solutions.ArraysAndStrings.P1208_GetEqualSubstringsWithinBudget
 {
     public class Solution
     {

@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P2000_ReversePrefixOfWord
+﻿namespace DSA.Solutions.ArraysAndStrings.P2000_ReversePrefixOfWord
 {
     public class Solution
     {
@@ -25,7 +25,7 @@
                 r++;
             }
 
-            return new String(arr);
+            return new string(arr);
         }
     }
 }

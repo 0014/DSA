@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P1413_MinimumValueToGetPositiveStepByStepSum
+﻿namespace DSA.Solutions.ArraysAndStrings.P1413_MinimumValueToGetPositiveStepByStepSum
 {
     public class Solution
     {
@@ -14,7 +14,7 @@
                 min = Math.Min(min, prefix[i]);
             }
 
-            return (1 - min) < 1 ? 1 : 1 - min;
+            return 1 - min < 1 ? 1 : 1 - min;
         }
     }
 }

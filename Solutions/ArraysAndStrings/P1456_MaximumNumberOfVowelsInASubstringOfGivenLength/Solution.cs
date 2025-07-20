@@ -1,4 +1,4 @@
-﻿namespace DSA.Solutions.P1456_MaximumNumberOfVowelsInASubstringOfGivenLength
+﻿namespace DSA.Solutions.ArraysAndStrings.P1456_MaximumNumberOfVowelsInASubstringOfGivenLength
 {
     public class Solution
     {
