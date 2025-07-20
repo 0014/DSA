@@ -3,13 +3,12 @@
 var raw = Console.In.ReadToEnd().Trim();
 var lines = InputParser.SplitLines(raw);
 
-var nums1 = InputParser.ParseIntArray(lines[0]);
-var nums2 = InputParser.ParseIntArray(lines[1]);
-//var k = InputParser.ParseInt(lines[1]);
-//var s = InputParser.ParseString(lines[0]);
+var s = InputParser.ParseString(lines[0]);
+var t = InputParser.ParseString(lines[1]);
+var maxCost = InputParser.ParseInt(lines[2]);
 
-var sol = new DSA.Solutions.P2540_MinimumCommonValue.Solution();
-var answer = sol.GetCommon(nums1, nums2);
+var sol = new DSA.Solutions.P1208_GetEqualSubstringsWithinBudget.Solution();
+var answer = sol.EqualSubstring(s, t, maxCost);
 
 Console.WriteLine(answer);
 
