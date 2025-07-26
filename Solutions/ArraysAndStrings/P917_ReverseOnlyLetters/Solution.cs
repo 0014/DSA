@@ -1,4 +1,10 @@
-﻿namespace DSA.Solutions.ArraysAndStrings.P917_ReverseOnlyLetters
+﻿/* LeetCode Problem 917: Reverse Only Letters
+ * 
+ * Given a string s, return the string after replacing every letter with its reverse in the alphabet,
+ * where 'a' is replaced by 'z', 'b' is replaced by 'y', and so on.
+ * Non-letter characters remain unchanged.
+ */
+namespace DSA.Solutions.ArraysAndStrings.P917_ReverseOnlyLetters
 {
     public class Solution
     {

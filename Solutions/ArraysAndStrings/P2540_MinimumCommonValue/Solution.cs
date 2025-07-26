@@ -1,4 +1,13 @@
-﻿namespace DSA.Solutions.ArraysAndStrings.P2540_MinimumCommonValue
+﻿/* * LeetCode Problem 2540: Minimum Common Value
+ * 
+ * Given two integer arrays nums1 and nums2, return the minimum common value that appears in both arrays.
+ * If there is no common value, return -1.
+ * 
+ * Example:
+ * Input: nums1 = [1,2,3], nums2 = [2,4]
+ * Output: 2
+ */
+namespace DSA.Solutions.ArraysAndStrings.P2540_MinimumCommonValue
 {
     public class Solution
     {

@@ -1,4 +1,10 @@
-﻿namespace DSA.Solutions.ArraysAndStrings.P303_RangeSumQueryImmutable
+﻿/* * LeetCode Problem 303: Range Sum Query - Immutable
+ * https://leetcode.com/problems/range-sum-query-immutable/
+ * Description:
+ * Given an integer array nums, handle multiple queries of the following type:
+ * - Calculate the sum of the elements of nums between indices left and right inclusive where left <= right.
+ */
+namespace DSA.Solutions.ArraysAndStrings.P303_RangeSumQueryImmutable
 {
     public class NumArray
     {

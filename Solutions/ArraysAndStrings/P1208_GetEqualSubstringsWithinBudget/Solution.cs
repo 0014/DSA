@@ -1,4 +1,12 @@
-﻿namespace DSA.Solutions.ArraysAndStrings.P1208_GetEqualSubstringsWithinBudget
+﻿/* * LeetCode Problem: https://leetcode.com/problems/get-equal-substrings-within-budget/
+ * Difficulty: Medium
+ * Tags: Sliding Window, Two Pointers
+ * 
+ * Given two strings s and t, and an integer maxCost, return the maximum length of a substring of s such that the cost of changing
+ * characters in s to match t does not exceed maxCost.
+ */
+
+namespace DSA.Solutions.ArraysAndStrings.P1208_GetEqualSubstringsWithinBudget
 {
     public class Solution
     {

@@ -1,4 +1,11 @@
-﻿public class Solution
+﻿/*
+ * LeetCode 643. Maximum Average Subarray I
+ * https://leetcode.com/problems/maximum-average-subarray-i/
+ *
+ * Given an integer array nums and an integer k, return the maximum average value of a subarray of length k.
+ * Any subarray of length k is a contiguous subarray of length k.
+ */
+public class Solution
 {
     public double FindMaxAverage(int[] nums, int k)
     {

@@ -1,4 +1,12 @@
-﻿namespace DSA.Solutions.ArraysAndStrings.P724_FindPivotIndex
+﻿/* * LeetCode Problem 724: Find Pivot Index
+ * https://leetcode.com/problems/find-pivot-index/
+ *
+ * Given an array of integers nums, return the pivot index of the array.
+ * The pivot index is the index where the sum of all numbers to the left
+ * of the index is equal to the sum of all numbers to the right of the index.
+ * If no such index exists, return -1.
+ */
+namespace DSA.Solutions.ArraysAndStrings.P724_FindPivotIndex
 {
     public class Solution
     {
