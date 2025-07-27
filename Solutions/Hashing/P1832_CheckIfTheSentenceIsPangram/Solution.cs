@@ -7,7 +7,7 @@
  * A pangram is a sentence that contains every single letter of the alphabet at least once.
  * Given a string sentence containing only lowercase English letters, return true if sentence is a pangram, or false otherwise.
 */
-namespace DSA.Solutions.P1832_CheckIfTheSentenceIsPangram
+namespace DSA.Solutions.Hashing.P1832_CheckIfTheSentenceIsPangram
 {
     public class Solution
     {

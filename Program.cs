@@ -3,12 +3,10 @@
 var raw = Console.In.ReadToEnd().Trim();
 var lines = InputParser.SplitLines(raw);
 
-var s = InputParser.ParseString(lines[0]);
-var t = InputParser.ParseString(lines[1]);
-var maxCost = InputParser.ParseInt(lines[2]);
+var nums = InputParser.ParseIntArray(lines[0]);
 
-var sol = new DSA.Solutions.P1208_GetEqualSubstringsWithinBudget.Solution();
-var answer = sol.EqualSubstring(s, t, maxCost);
+var sol = new DSA.Solutions.Hashing.P525_ContiguousArray.Solution();
+var answer = sol.FindMaxLength(nums);
 
 Console.WriteLine(answer);
 
