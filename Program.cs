@@ -5,8 +5,8 @@ var lines = InputParser.SplitLines(raw);
 
 var nums = InputParser.ParseIntArray(lines[0]);
 
-var sol = new DSA.Solutions.Hashing.P525_ContiguousArray.Solution();
-var answer = sol.FindMaxLength(nums);
+var sol = new DSA.Solutions.Hashing.P1748_SumOfUniqueElements.Solution();
+var answer = sol.SumOfUnique(nums);
 
 Console.WriteLine(answer);
 
