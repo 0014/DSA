@@ -3,10 +3,11 @@
 var raw = Console.In.ReadToEnd().Trim();
 var lines = InputParser.SplitLines(raw);
 
-var nums = InputParser.ParseIntArray(lines[0]);
+var s = InputParser.ParseString(lines[0]);
+var t = InputParser.ParseString(lines[1]);
 
-var sol = new DSA.Solutions.Hashing.P1748_SumOfUniqueElements.Solution();
-var answer = sol.SumOfUnique(nums);
+var sol = new DSA.Solutions.Hashing.P0205_IsomorphicStrings.Solution();
+var answer = sol.IsIsomorphic(s, t);
 
 Console.WriteLine(answer);
 
